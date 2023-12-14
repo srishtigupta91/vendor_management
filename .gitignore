@@ -68,7 +68,6 @@ cover/
 # Translations
 *.mo
 
-
 # Flask stuff:
 instance/
 .webassets-cache
